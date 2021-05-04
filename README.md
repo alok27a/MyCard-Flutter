@@ -1,3 +1,4 @@
 # MyCard-Flutter
 This is a App that displays my Details
-![](Images/appScreenshot.jpeg)
+<br>
+<img src="Images/appScreenshot.png" height="500" />
